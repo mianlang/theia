@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.3.0
+
+- [scm] added support for multi-select in the Source Control view [#7900](https://github.com/eclipse-theia/theia/pull/7900)
+
 ## v1.2.0
 
 - [application-manager] added ability for clients to add `windowOptions` using an IPC-Event [#7803](https://github.com/eclipse-theia/theia/pull/7803)
